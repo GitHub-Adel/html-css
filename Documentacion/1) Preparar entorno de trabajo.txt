@@ -1,0 +1,25 @@
+1- instalar visual studio code
+2- instalarle las sig. extensiones:
+-----------------------------------------
+auto close tag : cierra las etiquetas despues de abrirla
+auto rename tag: cambia la etiqueda de cierre y apertura al mismo tiempo
+beautify : da formato a los ficheros de manera automatica
+intellisense for css: autocompletado para css
+
+no intentes aprender todas las etiquetas, atributos y eventos
+---------------------------------------------
+prepara una lista que contenga todas las etiquetas en el sig. formato 
+y cuando la necesite ve a esta lista y dale un vistazo.
+
+ETIQUETAS:
+-------------------------
+<etiqueta> : que hace
+
+ATRIBUTOS:
+---------------------------
+atributo="valor" : que hace
+
+EVENTOS:
+---------------------------
+atributo="valor" : que hace
+

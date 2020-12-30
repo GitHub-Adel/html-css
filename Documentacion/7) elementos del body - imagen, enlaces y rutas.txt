@@ -1,0 +1,47 @@
+son los elementos que se visualizan en el navegador
+
+<body>
+    	<h1><h1>
+    	<button></button>
+</body>
+
+IMAGENES:
+---------------------------------
+src="imagen.png" : ruta de la imagen
+
+alt="nombre de imagen": muestra el nombre de la imagen en caso de que no se pueda
+		mostrar la imagen por algun error ocurrido.
+
+width="25%":ancho de la imagen, puede ser 50px
+
+height="25%":altura de la imagen, puede ser 50px
+
+********************** FIN ************************
+
+RUTAS src: utiliza las relativas, esta es la misma donde se encuentra la pagina
+---------------------------------
+ventas/pagina/index.html
+ventas/pagina/img/logo.png
+
+si quiero mostrar el logo la ruta relativa seria:
+<img alt="Logo" src="img/logo.png">
+
+en este caso ventas/pagina/ es la ruta relativa
+
+
+********************** FIN ************************
+
+ENLACES <a> </a>: muestra lo indicado ya sea imagen, un archivo o lo que sea.
+---------------------------------
+href="archivo.png": que es la dirección de Internet de destino (ya sea otra página web,
+		 una imagen, URL, un fichero o lo que sea).
+
+href="#id del elemento": se posiciona en ese elemento mostrandolo al usuario.
+<p id="parrafo"></p>  : href="#parrafo"
+
+target="_blank" : se abrirá en una nueva ventana de mi navegador.
+
+
+
+
+********************** FIN ************************

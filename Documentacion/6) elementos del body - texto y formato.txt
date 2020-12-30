@@ -1,0 +1,43 @@
+son los elementos que se visualizan en el navegador
+
+<body>
+    	<h1><h1>
+    	<button></button>
+</body>
+
+<h1>:de encabezado, se utilizan para darle mayor o menor importancia a un titulo
+---------------------------------
+<h1>Titulo grande</h1>
+<h2>SubTitulo mediano</h2>
+hasta llegar a h6
+
+********************** FIN ************************
+
+de formato: se utilizan para darle formato al texto
+---------------------------
+<b>...</b>: negrita.
+<i>...</i> cursiva (acostado).
+<del>...</del> tachado (con una raya en medio).
+<sup>...</sup> X2 en este caso el dos se muestra chiquito y en la ezq. sup. der.
+<sub>...</sub> X2 en este caso el dos se muestra chiquito y en la ezq. inf. der.
+<mark>...</mark> subrayado (con fondo amarillo).
+<cite>...</cite> título de una referencia bibliográfica.
+<time>...</time> para mostrar horas (10:55:13)
+<address>...</address> contacto de algo o alguien: nombre, correo, 
+		direccion, telefono etc. uno debajo del otro
+<blockquote>...</blockquote> para citar a alguien es o algo ejemplo: 
+adelson dijo:
+	soy dominicano y nadie me loquita
+	quiero tener dominio propio
+	tengo derecho a ser feliz
+
+los colores son:
+	amarillo
+	verde
+	rojo
+
+<br/> Salto de línea.
+<p>...</p> Párrafo.
+<hr/> Separación de Tema. : envia lo que le sigue a la siguiente linea separandola
+		con una linea vertical
+

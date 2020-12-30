@@ -1,0 +1,8 @@
+comenta un texto que nos servira de ayuda en nuestra pagina
+
+COMENTARIO:
+-------------------------------
+<!-- 
+esto es un comentario 
+con dos lineas
+-->
