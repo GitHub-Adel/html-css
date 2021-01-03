@@ -4,25 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>practica</title>
-    <link rel="next" href="index.html">
-    <link rel="stylesheet" href="style.css">
-    <base href="">
-</head>
-<body>
-    <p style="text-align:center">
-        <a href="https://www.youtube.com/watch?v=cqMfPS8jPys&ab_channel=FalconMasters" target="_blank">        
-            <img src="imagenes/html5.png" alt="html5" width="250px" height="200px">        
-        </a>
 
-        <a href="https://ed.team/cursos/css" target="_blank">
-            <img src="imagenes/css3.jpg" alt="css3" width="250px" height="200px"> 
-        </a>
-    </p> 
-    <p style="text-align:center">
-        <a href="https://www.google.com/?hl=es" target="_blank">
-            <img src="imagenes/chrome.jpg" alt="chrome" width="250px" height="200px">
-        </a> 
-    </p> 
+</head>
+<body>   
+    <form action="index.html" method="GET" target="_blank">
+        <label>Editor: <input list="editor" name="editor"/></label>
+
+        <datalist id="editor">
+            <option value="Atom">
+            <option value="NotePad++">
+        </datalist>
+    
+        
+        <input type="submit" value="enviar">
+    </form>
+
 </body>
 
 </html>
